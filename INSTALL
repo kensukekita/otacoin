@@ -1,0 +1,9 @@
+Building Otacoin
+
+See doc/readme-qt.rst for instructions on building Otacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Otacoin.
+
+See doc/build-*.txt for instructions on building otacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Otacoin.
